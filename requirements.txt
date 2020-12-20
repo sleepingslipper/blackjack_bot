@@ -1,0 +1,8 @@
+peewee==3.13.3
+psutil==5.7.3
+pyTelegramBotAPI==3.7.3
+requests==2.7.0
+SimpleQIWI==0.7
+six==1.15.0
+telebot==0.0.3
+uuid==1.30
